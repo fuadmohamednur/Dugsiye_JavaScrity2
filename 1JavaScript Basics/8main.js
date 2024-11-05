@@ -1,4 +1,4 @@
-let greeting = "asalmu alemuiku"; //  wixi magac sheegto waxa la siinaa "dhawal koteshin""
+let greeting = "asalmu alemuiku"; //  wixi magac sheegto waxa la siinaa "dhawal koteshin"
 
 console.log(greeting);
 
