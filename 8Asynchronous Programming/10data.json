@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "xasan",
+    "city": "xamar",
+    "order": [
+        {"id": 1, "pruduct": "airpod", "quantity": 1},
+        {"id": 2, "pruduct": "airpod", "quantity": 2}
+    ]
+}

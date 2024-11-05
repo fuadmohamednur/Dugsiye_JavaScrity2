@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Alice",
+    "city": "london",
+    "oders": [
+        {"id" : 1, "product": "labtop", "quantity": 1},
+        {"id" : 2, "product": "mouse", "quantity": 2}
+    ]
+}
