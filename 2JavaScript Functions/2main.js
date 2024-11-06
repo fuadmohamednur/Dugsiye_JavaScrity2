@@ -8,3 +8,12 @@
 
 //  greet();
 
+ function greet(name){
+    console.log('Hello ' + name);
+    
+ }
+
+ greet("Hamuda")
+ greet("Hawo")
+ greet("Shukari")
+ greet("Kasim")

@@ -1,50 +1,23 @@
-// //  //funtion declaration
 
-// //  function greet() {
-// //     console.log('Hello world!');
-// //  }
+  //funtion waxa oo naga sacidaa codeka in laka xero xero
 
-// //  greet();
+ //funtion declaration
 
-// // scope
+//  function greet() {
+//     console.log('Hello world!');
+//  }
 
-// let globaoVariable = "I'm global Varible"
+//  greet();
 
-// // function showVarible(){
-// //     console.log(globaoVariable)
-// // }
-
-// // showVarible();
-
-// // console.log(globaoVariable)
-
-
-
-// // console.log(localVarible);
-
-// // showlocalVariable();
-
-// {
-//     let myName = "Mc";
-//     const age = 90;
+// function greet(name){
+//     console.log('Hello ' + name);
     
-//     console.log(age);
-//     var year = 2024;
+//  }
 
-//     // function showlocalVariable(){
-//     //     let localVarible = "I'm local varible";
-//     //     console.log(localVarible)
-//     // }
-
-//     let showlocalVariable = function() {
-//             let localVarible = "I'm local varible";
-//             console.log(localVarible)
-//         }
-    
-//     // showlocalVariable()
-// }
-// showlocalVariable()
-// console.log(year)  
+//  greet("Hamuda")
+//  greet("Hawo")
+//  greet("Shukari")
+//  greet("Kasim")
 
 function calculateTotal (price,quantity) {
     console.log("Total price: $" + price * quantity);
