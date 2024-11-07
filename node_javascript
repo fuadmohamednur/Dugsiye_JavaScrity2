@@ -33,18 +33,32 @@
 
     funtion
 
-Function Parameters and Arguments // waxa waaye in faction oo shaqeeyo
+ Function Parameters and Arguments // waxa waaye in faction oo shaqeeyo
 
-return // Function shaqadoo soo qabtay aan ka siifaideesano hol ka kusiqabno hadii loo bahnaado
+ return // Function shaqadoo soo qabtay aan ka siifaideesano hol ka kusiqabno hadii loo bahnaado
 
-Function Expression
+ Function Expression
 
-Arrow Function (ES6)
+ Arrow Function (ES6)
 
-Scope | Variable il intee ka shaqeeynaa
-1 Local scope
-2 Global scope  | wax kastoo funtion ka banaankiisa lagu qeexo waa Global
+  Scope | Variable il intee ka shaqeeynaa
+ 1 Local scope
+ 2 Global scope  | wax kastoo funtion ka banaankiisa lagu qeexo waa Global
 
 }
 
 
+3Arrays and Objects{
+
+   3Arrays | waxay nagasacidee in list oo dhan halmeel lagu kediyo
+
+   Array Methods
+   push  // lisk gofka uGu dambeeyo ayuu ku daraa
+   pop     // lisk gofka uGu dambeeyo ayuu ka saraaa
+   shift  //lisk gofka uGu horeeyo ayaa labixinaa
+   unshft   // lisk gofka uGu horeeyo ayuu ku daraa
+   length  // liska arrays madaxa kaga tarinaa
+
+
+  Objects || gofki ayaan keedineenaa
+}

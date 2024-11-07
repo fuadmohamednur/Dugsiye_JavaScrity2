@@ -1,4 +1,7 @@
-// //  //funtion declaration
+
+//   //funtion waxa oo naga sacidaa codeka in laka xero xero
+
+//  //funtion declaration
 
 // //  function greet() {
 // //     console.log('Hello world!');
@@ -6,25 +9,53 @@
 
 // //  greet();
 
-// // scope
+// // function greet(name){
+// //     console.log('Hello ' + name);
+    
+// //  }
 
-// let globaoVariable = "I'm global Varible"
+// //  greet("Hamuda")
+// //  greet("Hawo")
+// //  greet("Shukari")
+// //  greet("Kasim")
 
-// // function showVarible(){
-// //     console.log(globaoVariable)
-// // }
+// function calculateTotal (price,quantity) {
+//     console.log("Total price: $" + price * quantity);
 
-// // showVarible();
+// }
 
-// // console.log(globaoVariable)
+// calculateTotal(2,10);
+// calculateTotal(5, 2);
+// calculateTotal(16, 3);
+// calculateTotal(8, 5);
+
+// function add(a,b){
+//     return a+b;
+// }
+
+// let result = add(10,30);
+
+// console.log(result / 2);
+
+// Function Expression
+
+// const greet = function(name){
+
+//     console.log("Hello " + name);
+// };
+
+// greet("Halimo");
+
+// greet("kadijo");
 
 
+// const salaam = (name) => {
+//     console.log("hello " + name)
+// }
 
-// // console.log(localVarible);
+// salaam("Hamuuda");
 
-// // showlocalVariable();
 
-// {
     let myName = "Mc";
     const age = 90;
     
@@ -46,56 +77,3 @@
 showlocalVariable()
 console.log(year)  
 
-// function calculateTotal (price,quantity) {
-//     console.log("Total price: $" + price * quantity);
-
-// }
-
-// calculateTotal(2,10);
-// calculateTotal(5, 2);
-// calculateTotal(16, 3);
-// calculateTotal(8, 5);
-
-// function add(a,b){
-//     return a+b;
-// }
-
-// let result = add(10,30);
-
-// console.log(result / 2);
-
-// const greet = function(name){
-
-//     console.log("Hello " + name);
-// };
-
-// greet("Halimo");
-
-// greet("kadijo");
-
-// const salaam = (name) => {
-//     console.log("hello " + name)
-// }
-
-// salaam("Hamuuda");
-
-
-// let glbalVaribale = "I'm global Varible"
-
-
-// // function showVariable(){
-// //     console.log(glbalVaribale);
-// // }
-
-// // showVariable();
-
-// // console.log(glbalVaribale);
-
-// function showlocalVariable(){
-//     let localVarible = "I'm local Varible"
-//     console.log(localVarible)
-// }
-
-// console.log(localVarible);
-
-// showlocalVariable();
