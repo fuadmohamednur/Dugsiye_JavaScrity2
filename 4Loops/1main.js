@@ -110,13 +110,8 @@
 // ilaa xagee u soconaa
 // yaa na gaynaya
 
-// for (let i = 0; i < 5; i++) {
-//     console.log(i);
-// }
-
-
-// 1-11
-
-for (let i = 0; i < 5; i++){
+for (let i = 0; i < 5; i++) {
     console.log(i);
 }
+
+

@@ -48,7 +48,7 @@ console.log(person.name);
 console.log(person["age"]);
 console.log(person["name"]);
 console.log(person["city"]);
-
+ 
 
 let person2 = {
     name : "kalid",

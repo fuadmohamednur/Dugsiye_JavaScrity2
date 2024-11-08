@@ -117,8 +117,8 @@ let student = [
 
 // 1-10
 
-for(let i = 1; i < 11; i++){
-    console.log(i);
-
-
+const students = ["Alice", "Bob", "Charlie"];
+for (let i = 0; i < students.length; i++) {
+    console.log("Hello, " + students[i] + "!");
 }
+// Output: Hello, Alice!, Hello, Bob!, Hello, Charlie!

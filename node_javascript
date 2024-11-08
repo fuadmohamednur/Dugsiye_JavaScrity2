@@ -62,3 +62,29 @@
 
   Objects || gofki ayaan keedineenaa
 }
+
+
+4For Loop{
+   code soo lalabalahay in hal mar qprno        amh shaqooyinka soo lablato har loo dhibaaa 
+
+  a) for loop                  // waxa loistimaalaa shqooyi aad oktahay in oo soo lalapanaayo
+
+           qacido for loop
+   for (initialization; condition; increment) {
+    // code to be executed
+
+
+    b)Meaningful Example: 
+          
+          const students = ["Alice", "Bob", "Charlie"];
+           for (let i = 0; i < students.length; i++) {
+          console.log("Hello, " + students[i] + "!");
+         }
+         // Output: Hello, Alice!, Hello, Bob!, Hello, Charlie!
+
+
+    c) While Loop
+
+}
+
+}
